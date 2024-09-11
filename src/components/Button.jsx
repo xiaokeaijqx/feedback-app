@@ -1,4 +1,4 @@
-import {version} from "react";
+
 import PropTypes from "prop-types";
 
 function Button({children, version = "primary", type = "button", isDisabled = false}) {
